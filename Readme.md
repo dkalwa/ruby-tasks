@@ -5,11 +5,11 @@ oraz podstawy korzstania z biblioteki ActiveRecord.
 
 Spis treści:
 
- # Łańcuchy znaków
- # Łańcuchy znaków - cd.
- # Liczy, zakresy
- # Wyrażenia regularne
- # Tablice
- # Iteratory
- # ActiveRecord
- # ActiveRecord - cd.
+# Łańcuchy znaków
+# Łańcuchy znaków - cd.
+# Liczy, zakresy
+# Wyrażenia regularne
+# Tablice
+# Iteratory
+# ActiveRecord
+# ActiveRecord - cd.
